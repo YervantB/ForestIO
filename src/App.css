@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  /*animation: App-logo-flip infinite 20s linear;*/
+  height: 80px;
+}
+
+.App-header {
+  background-color: #131e19;
+  height: 150px;
+  padding:10px;
+  color: white;
+}
+
+#I {
+  height: 160px;
+  color: #d5a65b;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+#searchcontainer {
+  margin-top: 20px;
+}
+/*@keyframes App-logo-flip {
+  0% { 
+    transform: perspective(80px) rotateX(0deg) rotateY(0deg);
+    -webkit-transform: perspective(80px) rotateX(0deg) rotateY(0deg); 
+  }  100% { 
+    transform: perspective(80px) rotateX(0deg) rotateY(-179.9deg);
+    -webkit-transform: perspective(80px) rotateX(0deg) rotateY(-179.9deg); 
+  }
+}*/
